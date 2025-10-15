@@ -3,7 +3,7 @@
 char* duplicate(char* s);
 
 int main(void) {
-    char* str = "e dio lo gnomo\n";
+    char* str = "ciao\n";
     char* str2 = duplicate(str);
     printf("%s",str);
     printf("%s",str2);
